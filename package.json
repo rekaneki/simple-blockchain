@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "elliptic": "^6.5.4"
+  },
+  "name": "simple-blockchain",
+  "description": "A simple experimental implementation of a blockchain, using nodejs.",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rekaneki/simple-blockchain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rekaneki/simple-blockchain/issues"
+  },
+  "homepage": "https://github.com/rekaneki/simple-blockchain#readme"
+}
